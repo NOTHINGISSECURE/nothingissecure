@@ -17,12 +17,14 @@ i am currently student and learning many topics related to code and web developm
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nothingissecure&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=deathCURE4757&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=nothingissecure&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nothingissecure&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nothingissecure)](https://git.io/streak-stats)
 
 
