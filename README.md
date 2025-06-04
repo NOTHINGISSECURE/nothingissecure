@@ -58,6 +58,11 @@ i am currently student and learning many topics related to code and web developm
 </picture>
 
 ###
+<div align="center">
+  <img src="https://profile-counter.glitch.me/nothingissecure/count.svg?"  />
+</div>
+
+###
 
 
 <h2>⚡️ Where to find me</h2>
