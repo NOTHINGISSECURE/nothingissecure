@@ -19,6 +19,10 @@ i am currently student and learning many topics related to code and web developm
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=nothingissecure&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<img src="https://raw.githubusercontent.com/nothingissecure/nothingissecure/output/snake.svg" alt="Snake animation" />
+
+###
+
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
