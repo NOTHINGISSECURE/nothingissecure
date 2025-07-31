@@ -10,9 +10,6 @@ i am currently student and learning many topics related to code and web developm
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/nothingissecure/count.svg?"  />
-</div>
 
 ###
 
