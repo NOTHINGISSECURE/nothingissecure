@@ -8,12 +8,6 @@ i am currently student and learning many topics related to code and web developm
 
 <h1 align="center">Hey 👋What's Up?</h1>
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nothingissecure&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-
-</div>
-
 ###
 
 <div align="center">
